@@ -1,13 +1,13 @@
 
 // SIGNAL  | PIN (ESP32)
 //---------|-------
-// MISO    | 19
-// MOSI    | 23
-// CLK     | 18
-// LCD_DC  | 2
-// LCD_RST | 3
-// LCD_CS  | 15
-// TP_CS   | 14
+// MISO    |  19
+// MOSI    |  23
+// CLK     |  18
+// LCD_DC  |  2
+// LCD_RST |  3
+// LCD_CS  |  15
+// TP_CS   |  14
 
 #include "../lvgl/src/lvgl.h"
 #include <TFT_eSPI.h>
